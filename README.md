@@ -5,7 +5,7 @@ Here's a README for your project:
 
 # SAM Model
 
-This repository contains the implementation of a deep learning model using TensorFlow and Keras for image processing tasks. The model utilizes an encoder-decoder architecture with attention mechanisms and feedback loops to enhance feature extraction and reconstruction.
+This repository contains the adapting state of the art deep learning model using TensorFlow and Keras for crackdetection tasks, using data from utlrasonic sensor. The model utilizes an encoder-decoder architecture with attention mechanisms and feedback loops to enhance feature extraction and reconstruction.
 
 ## Table of Contents
 
